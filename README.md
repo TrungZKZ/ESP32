@@ -116,7 +116,7 @@
 
 <H2>Nguồn điện hoạt động</H2>
 <p>-Điện áp hoạt động: 2,2V ÷ 3,6V<br>
--Nhiệt độ hoạt động: -40oC ÷ + 85oC<br>
+-Nhiệt độ hoạt động: -40°C ÷ + 85°C<br>
 -Số cổng GPIO: 36
 </p>
 
