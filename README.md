@@ -103,6 +103,23 @@
 -CAN bus 2.0<br>
 -IR (TX/RX)</p>
 
+###
+
+<H2>Bảo mật</H2>
+<p>-Hỗ trợ tất cả các tính năng bảo mật chuẩn IEEE 802.11, bao gồm WFA, WPA/WPA2 và WAPI<br>
+-Khởi động an toàn (Secure boot)<br>
+-Mã hóa flash (Flash encryption)<br>
+-1024-bit OTP, lên đến 768-bit cho khách hàng<br>
+-Tăng tốc phần cứng mật mã: AES, SHA-2, RSA, mật mã đường cong elliptic (ECC – elliptic curve cryptography), bộ tạo số ngẫu nhiên (RNG – random number generator)</p>
+
+###
+
+<H2>Nguồn điện hoạt động</H2>
+<p>-Điện áp hoạt động: 2,2V ÷ 3,6V<br>
+-Nhiệt độ hoạt động: -40oC ÷ + 85oC<br>
+-Số cổng GPIO: 36
+</p>
+
 </details>
 </div>
 
