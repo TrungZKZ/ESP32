@@ -1,4 +1,4 @@
-<H1 align="center">ESP32<img src="https://www.espressif.com/sites/all/themes/espressif/logo-black.svg"  /></H1>
+<H1 align="center">ESP32<img height="50" src="https://www.espressif.com/sites/all/themes/espressif/logo-black.svg"  /></H1>
 
 <div align="center">
 <details>
