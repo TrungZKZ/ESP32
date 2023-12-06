@@ -2,7 +2,7 @@
 
 <div align="center">
 <details>
-<summary><H3 color="red">ESP-WROOM-32 38 PIN Development Board PINOUT</H3></summary>
+<summary><H3>ESP-WROOM-32 38 PIN Development Board PINOUT</H3></summary>
   <img src="https://raw.githubusercontent.com/AchimPieters/esp32-homekit-camera/master/Images/ESP32-38%20PIN-DEVBOARD.png"  />
 </div>
 
