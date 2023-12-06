@@ -86,7 +86,7 @@
 
 ###
 
-<H3 align="center">Cảm biến hiệu ứng Hall tích hợp ESP32(Capacitive touch)</H3>
+<H3 align="center">Cảm biến hiệu ứng Hall (Hall Effect Sensor)</H3>
 <p>ESP32 cũng có cảm biến hiệu ứng Hall tích hợp để phát hiện những thay đổi của từ trường xung quanh nó.</p>
 </details>
 </div>
