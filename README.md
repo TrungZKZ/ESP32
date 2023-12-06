@@ -84,7 +84,7 @@
   - T8 (GPIO 33)<br>
   - T9 (GPIO 32)</p>
 
-###
+##
 
 <H3 align="center">Cảm biến hiệu ứng Hall (Hall Effect Sensor)</H3>
 <p>ESP32 cũng có cảm biến hiệu ứng Hall tích hợp để phát hiện những thay đổi của từ trường xung quanh nó.</p>
