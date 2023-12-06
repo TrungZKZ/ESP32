@@ -65,3 +65,25 @@
 | 38   | 🟢OK | | input only |
 | 39   | 🟢OK | | input only |
 </div>
+
+<div>
+<details>
+<summary><H4>Một số điều thú vị</H4></summary>
+<H5>Cảm ứng điện dung GPIO (Capacitive touch)</H5>
+<p>ESP32 có 10 cảm biến cảm ứng điện dung bên trong. Chúng có thể cảm nhận được sự biến đổi của bất cứ thứ gì mang điện tích, như da người. Vì vậy, họ có thể phát hiện các biến thể gây ra khi chạm vào GPIO bằng ngón tay. Những chân này có thể dễ dàng tích hợp vào các miếng đệm điện dung và thay thế các nút cơ. Các chân cảm ứng điện dung cũng có thể được sử dụng để đánh thức ESP32 khỏi trạng thái ngủ sâu.</p>
+
+<p>Các cảm biến cảm ứng bên trong đó được kết nối với các GPIO này.<br>
+- T0 (GPIO 4)
+- T1 (GPIO 0)
+- T2 (GPIO 2)
+- T3 (GPIO 15)
+- T4 (GPIO 13)
+- T5 (GPIO 12)
+- T6 (GPIO 14)
+- T7 (GPIO 27)
+- T8 (GPIO 33)
+- T9 (GPIO 32)</p>
+
+  
+</details>
+</div>
