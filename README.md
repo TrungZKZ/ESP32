@@ -1,5 +1,6 @@
-<a  align="center" href="https://www.espressif.com/en/products/socs/esp32" align="center"><img height="50" src="https://www.espressif.com/sites/all/themes/espressif/logo-black.svg"  /></a>
-
+<div align="center"></div>
+<a href="https://www.espressif.com/en/products/socs/esp32" align="center"><img height="50" src="https://www.espressif.com/sites/all/themes/espressif/logo-black.svg"  /></a>
+</div>
 <div align="center">
 <details>
 <summary><H3>ESP-WROOM-32 38 PIN Development Board PINOUT</H3></summary>
