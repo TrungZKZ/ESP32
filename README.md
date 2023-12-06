@@ -22,7 +22,7 @@
 </div>
 
 
-<p>The pins highlighted in green 🟢 are OK to use. The ones highlighted in yellow 🟡 are OK to use, but you need to pay attention because they may have unexpected behaviour, mainly at boot. The pins highlighted in red 🔴 are not recommended to use as inputs or outputs.</p>
+<p>Các chân được đánh dấu màu xanh lá 🟢 đều có thể sử dụng được. Những chân được đánh dấu màu vàng 🟡 có thể sử dụng được nhưng cần chú ý vì chúng có thể có những hành vi không mong muốn, chủ yếu là khi khởi động. Các chân được đánh dấu màu đỏ 🔴 không được khuyến nghị sử dụng làm đầu vào hoặc đầu ra.</p>
 <div align="center">
 
 | GPIO | Input | Output | Notes |
