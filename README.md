@@ -90,3 +90,5 @@
 <p>ESP32 cũng có cảm biến hiệu ứng Hall tích hợp để phát hiện những thay đổi của từ trường xung quanh nó.</p>
 </details>
 </div>
+
+<a href="https://docs.espressif.com/projects/esp-idf/en/stable/esp32/index.html"><p>Tài liệu tham khảo</p></a>
