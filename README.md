@@ -19,6 +19,10 @@
   <img src="https://raw.githubusercontent.com/AchimPieters/esp32-homekit-camera/master/Images/ESP32-VROOM-32D-PINOUT.png"  />
 </details>
 </div>
+
+<div align="center">
+<details>
+<summary><H3>PINs</H3></summary>
 <p>Các chân được đánh dấu màu xanh lá 🟢 đều có thể sử dụng được. Những chân được đánh dấu màu vàng 🟡 có thể sử dụng được nhưng cần chú ý vì chúng có thể có những hành vi không mong muốn, chủ yếu là khi khởi động. Các chân được đánh dấu màu đỏ 🔴 không được khuyến nghị sử dụng làm đầu vào hoặc đầu ra.</p>
 <div align="center">
   
@@ -64,6 +68,8 @@
 | 37   | 🟢OK | | input only |
 | 38   | 🟢OK | | input only |
 | 39   | 🟢OK | | input only |
+</div>
+</details>
 </div>
 
 <div>
