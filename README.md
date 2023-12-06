@@ -1,4 +1,4 @@
-<H1 align="center"><img height="20" src="https://www.espressif.com/sites/all/themes/espressif/logo-black.svg"  /></H1>
+<a href="https://www.espressif.com/en/products/socs/esp32" align="center"><img height="50" src="https://www.espressif.com/sites/all/themes/espressif/logo-black.svg"  /></a>
 
 <div align="center">
 <details>
