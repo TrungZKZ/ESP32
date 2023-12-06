@@ -91,4 +91,4 @@
 </details>
 </div>
 
-<a href="https://docs.espressif.com/projects/esp-idf/en/stable/esp32/index.html"><p>Tài liệu tham khảo</p></a>
+<a href="https://docs.espressif.com/projects/esp-idf/en/stable/esp32/index.html">Tài liệu tham khảo</a>
