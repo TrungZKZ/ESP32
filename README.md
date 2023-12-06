@@ -82,6 +82,12 @@
   -Tốc độ xung nhịp từ 40 Mhz ÷ 80 Mhz (có thể tùy chỉnh khi lập trình)<br>
   -RAM: 520 Kb SRAM liền chip. Trong đó 8 Kb RAM RTC tốc độ cao – 8 Kb RAM RTC tốc độ thấp (dùng ở chế độ DeepSleep).</p>
 
+###
+
+<H2>Hỗ trợ 2 giao tiếp không dây</H2>
+<p>  -Wi-Fi: 802.11 b/g/n/e/i<br>
+  -Bluetooth: v4.2 BR/EDR và BLE</p>
+
 </details>
 </div>
 
