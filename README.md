@@ -68,6 +68,25 @@
 
 <div>
 <details>
+<summary><H2>Cấu hình của ESP32</H2></summary>
+
+<div align="center"><img src="https://lh3.googleusercontent.com/d/13yoyKC0Cftfv0dBHas6GjydJU8FkmERA=w1920?authuser=1"  /></div>
+
+###
+
+<H2>CPU:</H2>
+<p>  -CPU: Xtensa Dual-Core LX6 microprocessor.<br>
+  -Chạy hệ 32 bit<br>
+  -Tốc độ xử lý từ 160 MHz đến 240 MHz<br>
+  -ROM: 448 Kb<br>
+  -Tốc độ xung nhịp từ 40 Mhz ÷ 80 Mhz (có thể tùy chỉnh khi lập trình)<br>
+  -RAM: 520 Kb SRAM liền chip. Trong đó 8 Kb RAM RTC tốc độ cao – 8 Kb RAM RTC tốc độ thấp (dùng ở chế độ DeepSleep).</p>
+
+</details>
+</div>
+
+<div>
+<details>
 <summary><H2>Một số điều thú vị</H2></summary>
 <H3 align="center">Cảm ứng điện dung GPIO (Capacitive touch)</H3>
 <p>ESP32 có 10 cảm biến cảm ứng điện dung bên trong. Chúng có thể cảm nhận được sự biến đổi của bất cứ thứ gì mang điện tích, như da người. Vì vậy, họ có thể phát hiện các biến thể gây ra khi chạm vào GPIO bằng ngón tay. Những chân này có thể dễ dàng tích hợp vào các miếng đệm điện dung và thay thế các nút cơ. Các chân cảm ứng điện dung cũng có thể được sử dụng để đánh thức ESP32 khỏi trạng thái ngủ sâu.</p>
