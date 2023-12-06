@@ -88,6 +88,21 @@
 <p>  -Wi-Fi: 802.11 b/g/n/e/i<br>
   -Bluetooth: v4.2 BR/EDR và BLE</p>
 
+###
+
+<H2>Hỗ trợ tất cả các loại giao tiếp</H2>
+<p>-2 bộ chuyển đổi số sang tương tự (DAC) 8 bit<br>
+-18 kênh bộ chuyển đổi tương tự sang số (ADC) 12 bit.<br>
+-2 cổng giao tiếp I²C<br>
+-3 cổng giao tiếp UART<br>
+-3 cổng giao tiếp SPI (1 cổng cho chip FLASH )<br>
+-2 cổng giao tiếp I²S<br>
+-10 kênh ngõ ra điều chế độ rộng xung (PWM)<br>
+-SD card/SDIO/MMC host<br>
+-Ethernet MAC hỗ trợ chuẩn: DMA và IEEE 1588<br>
+-CAN bus 2.0<br>
+-IR (TX/RX)</p>
+
 </details>
 </div>
 
