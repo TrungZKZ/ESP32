@@ -72,7 +72,7 @@
 </details>
 </div>
 
-<div>
+<div align="center">
 <details>
 <summary><H2>Cấu hình của ESP32</H2></summary>
 
@@ -129,7 +129,7 @@
 </details>
 </div>
 
-<div>
+<div align="center">
 <details>
 <summary><H2>Một số điều thú vị</H2></summary>
 <H3 align="center">Cảm ứng điện dung GPIO (Capacitive touch)</H3>
