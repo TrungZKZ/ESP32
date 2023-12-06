@@ -22,7 +22,7 @@
 |------|-------|--------|-------|
 | 0    | pulled up | OK | outputs PWM signal at boot |
 | 1    | TX Pin | OK | debug output at boot |
-| 2    | OK | OK | connected to on-board LED |
+| 2    |  🔵 OK | 🔵 OK | connected to on-board LED |
 | 3    | OK | RX Pin | HIGH at boot |
 | 4    | OK | OK | |
 | 5    | OK | OK | outputs PWM signal at boot |
