@@ -1,4 +1,4 @@
-<div align="center"></div>
+<div align="center">
 <a href="https://www.espressif.com/en/products/socs/esp32" align="center"><img height="50" src="https://www.espressif.com/sites/all/themes/espressif/logo-black.svg"  /></a>
 </div>
 <div align="center">
@@ -7,25 +7,20 @@
   <img src="https://raw.githubusercontent.com/AchimPieters/esp32-homekit-camera/master/Images/ESP32-38%20PIN-DEVBOARD.png"  />
 </details>
 </div>
-
 <div align="center">
 <details>
 <summary><H3>ESP-WROOM-32 30 PIN Develeopment Board PINOUT</H3></summary>
   <img src="https://raw.githubusercontent.com/AchimPieters/esp32-homekit-camera/master/Images/ESP32-30PIN-DEVBOARD.png"  />
 </details>
 </div>
-
 <div align="center">
 <details>
 <summary><H3>ESP-WROOM-32 CHIP PINOUT</H3></summary>
   <img src="https://raw.githubusercontent.com/AchimPieters/esp32-homekit-camera/master/Images/ESP32-VROOM-32D-PINOUT.png"  />
 </details>
 </div>
-
-
 <p>Các chân được đánh dấu màu xanh lá 🟢 đều có thể sử dụng được. Những chân được đánh dấu màu vàng 🟡 có thể sử dụng được nhưng cần chú ý vì chúng có thể có những hành vi không mong muốn, chủ yếu là khi khởi động. Các chân được đánh dấu màu đỏ 🔴 không được khuyến nghị sử dụng làm đầu vào hoặc đầu ra.</p>
 <div align="center">
-
 | GPIO | Input | Output | Notes |
 |------|-------|--------|-------|
 | 0    | 🟡pulled up | 🟡OK | outputs PWM signal at boot |
