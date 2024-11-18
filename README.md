@@ -20,6 +20,8 @@
 </details>
 </div>
 <div align="center">
+<details>
+<summary><H3>WT32-ETH01 Board PINOUT</H3></summary>
 <table>
   <tr> <td></td>
     <td align="right">EN ⏻</td>
@@ -39,6 +41,7 @@
   <tr> <td></td> <td align="right">5V ⚡</td> <td>▶️ IO2</td> <td>⚠️ must float to program</td> </tr>
   <tr> <td align="right">ethernet link light</td> <td align="right">LINK 🖧</td> <td>⏚ GND</td> <td></td> </tr>
 </table>
+</details>
 </div>
 <div align="center">
 <details>
