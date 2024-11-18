@@ -40,7 +40,8 @@
   <tr> <td></td> <td align="right">GND ⏚</td> <td>↔️ IO4</td> <td>📉 ADC2 CH0</td> </tr>
   <tr> <td></td> <td align="right">5V ⚡</td> <td>▶️ IO2</td> <td>⚠️ must float to program</td> </tr>
   <tr> <td align="right">ethernet link light</td> <td align="right">LINK 🖧</td> <td>⏚ GND</td> <td></td> </tr>
-</table><br>
+</table>
+<br>
 ⭕ - Not recommended for application use<br>
 ▶️ - Recommended output only (avoid driving externally)<br>
 ⬅️ - Input only<br>
