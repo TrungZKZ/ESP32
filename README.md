@@ -41,6 +41,13 @@
   <tr> <td></td> <td align="right">5V ⚡</td> <td>▶️ IO2</td> <td>⚠️ must float to program</td> </tr>
   <tr> <td align="right">ethernet link light</td> <td align="right">LINK 🖧</td> <td>⏚ GND</td> <td></td> </tr>
 </table>
+**LEGEND**<br>
+⭕ - Not recommended for application use<br>
+▶️ - Recommended output only (avoid driving externally)<br>
+⬅️ - Input only<br>
+↔️ - General purpose I/O<br>
+📈 - Analog input on ADC1<br> 
+📉 - Analog input on ADC2 (conflicts with wi-fi)<br>
 </details>
 </div>
 <div align="center">
